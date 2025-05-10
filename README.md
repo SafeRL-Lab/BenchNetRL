@@ -157,16 +157,7 @@ Replace the script name (`ppo.py`, `ppo_lstm.py`, `ppo_mamba2.py`, `ppo_trxl.py`
 
 - scripts/ours/: Shell scripts for reproducible benchmarks.
 
-## Citation
-If you find the repository useful, please cite the study
-``` Bash
-@article{ivan2025benchnetrl,
-  title={BenchNetRL: Benchmarking Neural Networks in Reinforcement Learning and Beyond},
-  author={Smirnov, Ivan and Gu, Shangding},
-  journal={Github},
-  year={2025}
-}
-```
+
 
 
 
