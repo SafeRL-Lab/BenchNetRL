@@ -1,13 +1,8 @@
-<div align="center">
-  <a href="https://github.com/SafeRL-Lab/BenchNetRL">
-    <img src="https://github.com/SafeRL-Lab/BenchNetRL/blob/main/docs/benchnetrl-logo.png" alt="Logo" width="60%" height="60%"> 
-  </a>
+
   
 <h1 align="center" style="font-size: 30px;"><strong><em>BenchNetRL</em></strong>:  The Right Network for the Right RL Task</h1>
 
 
-
-### 💻 [Code](https://github.com/SafeRL-Lab/BenchNetRL/tree/main) · 📄 [Paper](https://arxiv.org/abs/2505.15040) · 🚩 [Issues](https://github.com/SafeRL-Lab/BenchNetRL/issues)
 
 </div>
 
@@ -245,13 +240,3 @@ Below are key performance metrics visualized by architecture group.
 
 ---
 
-## 📄 Citation
-If you find the repository useful, please cite the study
-``` Bash
-@article{ivan2025benchnetrl,
-  title={RLBenchNet: The Right Network for the Right Reinforcement Learning Task},
-  author={Smirnov, Ivan and Gu, Shangding},
-  journal={Arxiv},
-  year={2025}
-}
-```
