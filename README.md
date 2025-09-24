@@ -1,6 +1,6 @@
 
   
-<h1 align="center" style="font-size: 30px;"><strong><em>BenchNetRL</em></strong>:  The Right Network for the Right RL Task</h1>
+<h1 align="center" style="font-size: 30px;"><strong><em>RLBenchNet</em></strong>:  The Right Network for the Right RL Task</h1>
 
 
 
