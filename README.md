@@ -1,6 +1,6 @@
 
   
-<h1 align="center" style="font-size: 30px;"><strong><em>RLBenchNet</em></strong>:  The Right Network for the Right RL Task</h1>
+<h1 align="center" style="font-size: 30px;"><strong><em>RLBenchNet</em></strong>: Benchmarking Neural Architectures with PPO Across Reinforcement Learning Tasks</h1>
 
 
 
@@ -43,7 +43,7 @@ BenchNetRL/
 Clone the repository:
 
 ```bash
-git clone https://github.com/SafeRL-Lab/BenchNetRL.git
+git clone https://anonymous.4open.science/r/BenchNetRL-A718.git
 cd BenchNetRL
 ```
 
